@@ -1,8 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- Adam Diel (S0854801)
-// CSIS 279  - Yoast/DeLay
-// Chap. 8.2 - GuestBook
+<!-- Adam D
 // GuestBook data retrieval which shows everyone who has signed the GuestBook.
 --> 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -14,7 +12,7 @@
 <?php
 
 // Establish Database connection and sign in.
-$DBConnect = @mysqli_connect("localhost", "root", ""); 
+$DBConnect = @mysqli_connect("localhost", "XXXXXX", "XXXXXX"); 
 if ($DBConnect === FALSE)
 {
 	echo  "<p>Unable to connect to the database server.</p>"
