@@ -1,8 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- Adam Diel (S0854801)
-// CSIS 279  - Yoast/DeLay
-// Chap. 8.1 - GuestBook
+<!-- Adam D
 // GuestBook validation / write process: Validates user input and writes
 // input data to database.
 --> 
@@ -23,7 +21,7 @@ if (empty(ltrim($_POST['first_name'])) || empty(ltrim($_POST['last_name'])))
 else 
 { 
 	// Establish Database connection and sign in.
-	$DBConnect = @mysqli_connect("localhost", "root", ""); 
+	$DBConnect = @mysqli_connect("localhost", "XXXXXX", "XXXXXX"); 
 	if ($DBConnect === FALSE)
 	{
 		echo  "<p>Unable to connect to the database server.</p>"
