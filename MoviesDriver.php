@@ -38,6 +38,9 @@
 			
 			echo "<p>\n";
 			
+			/* Produces a report of each age's ticket price with an age breakpoint line
+			   to separate the pricing breakpoints.
+			*/
 			for ($i = $MinAge;$i <= $MaxAge;++$i) 
 			{
 				if ($i >= $MoviesClassThresholds[$ThresholdIndex]["age"]) 
