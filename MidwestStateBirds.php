@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- Adam Diel (S0854801)
-// CSIS 279 - Yoast
-// Chap. 6 - Midwest State Birds
+<!-- 
+// Author: Adam D
+// Midwest State Birds
 // Prompts users to guess the state birds of the Midwest
 --> 
 <html xmlns="http://www.w3.org/1999/xhtml">
