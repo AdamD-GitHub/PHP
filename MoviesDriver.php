@@ -1,7 +1,5 @@
 <!--
-// Adam Diel (S0854801)
-// CSIS 279 - Yoast/DeLay
-// Chap. 10-4 - Movie price
+// Adam D
 // Determines price of movie ticket based on customer's age
 //     Return: price of ticket
 	   
