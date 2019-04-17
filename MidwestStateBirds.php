@@ -20,10 +20,10 @@ $StateBirds = array(
      "Kansas" => "Western Meadowlark",
      "Michigan" => "Robin",
      "Minnesota" => "Loon",
-	 "Missouri" => "Eastern Bluebird",
+     "Missouri" => "Eastern Bluebird",
      "Nebraska" => "Western Meadowlark",
      "North Dakota" => "Western Meadowlark",
-	 "Ohio" => "Cardinal",
+     "Ohio" => "Cardinal",
      "South Dakota" => "Ring-Necked Pheasant",
      "Wisconsin" => "Robin"    
 );
@@ -35,10 +35,10 @@ $StateBirdsImg = array(
      "Kansas" => "birdwesternmeadowlark.jpg",
      "Michigan" => "birdrobin.jpg",
      "Minnesota" => "birdloon.jpg",
-	 "Missouri" => "birdeasternblue.jpg",
+     "Missouri" => "birdeasternblue.jpg",
      "Nebraska" => "birdwesternmeadowlark.jpg",
      "North Dakota" => "birdwesternmeadowlark.jpg",
-	 "Ohio" => "birdcardinal.jpg",
+     "Ohio" => "birdcardinal.jpg",
      "South Dakota" => "birdringneckedpheasant.jpg",
      "Wisconsin" => "birdrobin.jpg"    
 );
